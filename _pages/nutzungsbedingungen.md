@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 # Nutzungsbedingungen #
-Die folgenden Nutzungsbedingungen gelten für unsere App „tankste!“ (folgend „App“) und unserer Website https://tankste.app (folgend „Website“). Die verantwortliche Stelle ist Fabian Keunecke (folgend „tankste!“, „wir“, „uns“). Kontaktinformationen sind im [Impressum](/impressum.md) vorzufinden.
+Die folgenden Nutzungsbedingungen gelten für unsere App „tankste!“ (folgend „App“) und unserer Website https://tankste.app (folgend „Website“). Die verantwortliche Stelle ist Fabian Keunecke (folgend „tankste!“, „wir“, „uns“). Kontaktinformationen sind im [Impressum](/impressum) vorzufinden.
 
 <br>
 
