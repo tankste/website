@@ -5,7 +5,8 @@ include_in_header: false
 ---
 
 # Nutzungsbedingungen #
-Die folgenden Nutzungsbedingungen gelten für unsere App „tankste!“ (folgend „App“) und unserer Website https://tankste.app (folgend „Website“). Die verantwortliche Stelle ist Fabian Keunecke (folgend „tankste!“, „wir“, „uns“). Kontaktinformationen sind im [Impressum](/impressum) vorzufinden.
+
+Die folgenden Nutzungsbedingungen gelten für unsere App „tankste!“ (folgend „App“) und unserer Website https://tankste.app (folgend „Website“). Die verantwortliche Stelle ist Fabian Keunecke (folgend „tankste!“, „wir“, „uns“). Kontaktinformationen sind im [Impressum](/impressum.md) vorzufinden.
 
 <br>
 
@@ -27,13 +28,21 @@ tankste! bietet eine Übersicht von den Benzing & Dieselpreisen der Tankstellen 
 
 ## 2. Kosten ##
 
-Unsere App kann kostenfrei heruntergeladen werden. Um unsere Finanzierung zu sichern, behalten wir uns vor jederzeit Werbung, In-App Produkte oder andere Bezahldienste einzuführen.
+Unsere App kann kostenfrei heruntergeladen werden. Alle Funktionen sind ohne Bezahlung oder Werbeeinblendungen kostenlos nutzbar. Um die Finanzierung des Projektes tankste! zu gewährleisten, setzen wir auf freiwillige Sponsoren. In den Apps selbst, oder über Github, oder Paypal können Sie dem Projekt frei wählbare Beträge zu senden. Bitte beachten Sie, dass tankste! keine Gemeinnützige Organisation ist, und diese Beiträge nicht von der Steuer abgesetzt werden können.
+
+<br>
+
+Durch die finanzielle Unterstützung entstehen keine Vorteile in der App Nutzung und keine Verpflichtungen von seitens tankste!, dem Sponsor gegenüber.
 
 <br>
 
 ## 3. Konto ##
 
-Zur Nutzung unser App ist ein Konto notwendig. Es existiert keine ID oder andere eindeutige Identifizierungsmöglichkeit.
+Zur Nutzung unser App ist kein Konto notwendig. Es existiert keine ID oder andere eindeutige Identifizierungsmöglichkeit.
+
+<br>
+
+Für einige Funktionen wird eine zufällige ID generiert, die dem verwendeten Gerät zugeordnet wird. Es wird nur die ID gespeichert, keine Geräteinformationen oder andere Personenbezogenen Daten.
 
 <br>
 
@@ -74,7 +83,7 @@ Wir sind jeder Zeit berechtigt die grafische Oberfläche, die Funktionen, sowie 
 <br>
 
 ## 6. Datenschutz ##
-    
+   
 Wie personenbezogene Daten gesammelt bzw. verarbeitet werden, sind in den [Datenschutzbestimmungen](/datenschutz) festgehalten.
 
 <br>
@@ -97,4 +106,4 @@ Nebenabreden bedürfen der Schriftform. Auch der Verzicht auf die Schriftform ka
 
 Bei weiteren Fragen kontaktiert uns bitte, wir helfen gern weiter!
 
-Stand: 07.07.2022
+Stand: 05.01.2024

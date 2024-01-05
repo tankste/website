@@ -17,15 +17,16 @@ Verantwortliche Stelle im Sinne des Bundesdatenschutzgesetzes (BDSG) ist Fabian 
 
 ## 1. Von uns gesammelte, genutzte und verarbeitete Daten ##
 
-Die App und Website benötigen euren Standort um die Tankstellen in eurer Umgebung zu finden. Diese Daten werden von uns nicht gespeichert. Der Standort wird für die Abfrage der Preise an Tankerkönig (https://www.tankerkoenig.de/) übermittelt, um dort die Tankstellen zu finden.
+Die App und Website benötigen euren Standort um die Tankstellen in eurer Umgebung zu finden. Diese Daten werden von uns nicht gespeichert. Der Standort wird für die Abfrage der Preise an unsere eigenen Server übermittelt, um dort die passenden Tankstellen zu ermitteln. Die Standortdaten werden nicht in unserer Datenbank gespeichert. Können aber in den technischen Log-Einträgen für einen temporären Zeitraum dokumentiert werden.
 
 Der übermittelte Standort ist nur eine Momentaufnahme und wird nicht durchgängig angefragt. Wir verwenden die Koordinaten zur Berechnung der Entfernung von den angezeigten Orten. Die Standortinformationen werden nicht gespeichert.
 
-Zu den weiteren Daten, welche vom Gerät (Computer, Smartphone) übermittelt werden, gehören die IP-Adresse, den Zeitpunkt der Nutzung der App/Website und den Typen eures Geräts (z.B. Sony, Samsung oder iPhone).
+Zu den weiteren Daten, welche vom Gerät (Computer, Smartphone) übermittelt werden, gehören die IP-Adresse, den Zeitpunkt der Nutzung der App/Website und den Typen eures Geräts (z.B. Sony, Samsung oder iPhone). Alle diese Daten werden in den technischen Log-Einträgen für einen temporären Zeitraum dokumentiert und danach automatisch gelöscht.
 
 <br>
 
 ## 2. Sicherung der Daten ##
+
 Zur Vorbeugung von Verlust, Missbrauch und Veränderung der gespeicherten Daten, existieren Sicherheitsmaßnahmen. Zugang zu den erhobenen Daten hat nur autorisiertes Personal. Trotz der getroffenen Sicherheitsmaßnahmen können wir nicht garantieren, dass kein Verlust, Missbrauch oder Veränderung an den gespeicherten Daten vorgenommen stattfindet.
 
 <br>
@@ -38,4 +39,4 @@ Es kann zu jedem Zeitpunkt die Nutzung der persönlichen Daten für die Zukunft 
 
 Bei weiteren Fragen kontaktiert uns bitte, wir helfen gern weiter!
 
-Stand: 07.07.2022
+Stand: 05.01.2024
