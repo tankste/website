@@ -22,7 +22,7 @@ Durch die Weiternutzung unserer Dienste bestätigt ihr auch die neuen Nutzungsbe
 
 ## 1. Service ##
 
-tankste! bietet eine Übersicht von den Benzing & Dieselpreisen der Tankstellen in Deutschland. Die Preise werden nicht in Echtzeit übermittelt. Alle Angaben sind ohne Gewähr. Bitte erkundigt euch vor dem Tanken nach den aktuellen Preisen anhand der Aushänge.
+tankste! bietet eine Übersicht von den Benzing & Dieselpreisen der Tankstellen in Deutschland & Island. Die Preise werden nicht in Echtzeit übermittelt. Alle Angaben sind ohne Gewähr. Bitte erkundigt euch vor dem Tanken nach den aktuellen Preisen anhand der Aushänge.
 
 <br>
 
