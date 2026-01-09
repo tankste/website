@@ -14,5 +14,6 @@ Die von tankste! angezeigten Daten stammen aus den folgenden Quellen. Alle Daten
 | <img src="https://tankste.app/assets/images/tankste/icon.png">   | tankste! - Deine Tankpreis App         | [tankste.app](https://tankste.app/)                                                                                                                      |
 |                                                                  | feiertage-api (by invokable)           | [feiertage-api.de](https://feiertage-api.de/)                                                                                                            |
 | <img src="https://tankste.app/assets/images/gasvaktin/icon.png"> | Gasvaktin                              | [github.com/gasvaktin/gasvaktin](https://github.com/gasvaktin/gasvaktin)                                                                                 |
+| <img src="https://tankste.app/assets/images/q8/icon.png">        | Q8                                     | [https://q8.com/](https://q8.com/)                                                                                                                       |
 
-Stand: 12.04.2024
+Stand: 09.01.2026
